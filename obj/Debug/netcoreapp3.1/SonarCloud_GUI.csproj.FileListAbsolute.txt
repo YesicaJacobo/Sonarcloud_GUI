@@ -1,0 +1,16 @@
+C:\Users\Yesica\source\repos\SonarCloud_GUI\bin\Debug\netcoreapp3.1\SonarCloud_GUI.exe
+C:\Users\Yesica\source\repos\SonarCloud_GUI\bin\Debug\netcoreapp3.1\SonarCloud_GUI.deps.json
+C:\Users\Yesica\source\repos\SonarCloud_GUI\bin\Debug\netcoreapp3.1\SonarCloud_GUI.runtimeconfig.json
+C:\Users\Yesica\source\repos\SonarCloud_GUI\bin\Debug\netcoreapp3.1\SonarCloud_GUI.runtimeconfig.dev.json
+C:\Users\Yesica\source\repos\SonarCloud_GUI\bin\Debug\netcoreapp3.1\SonarCloud_GUI.dll
+C:\Users\Yesica\source\repos\SonarCloud_GUI\bin\Debug\netcoreapp3.1\SonarCloud_GUI.pdb
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.csproj.AssemblyReference.cache
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.Form1.resources
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.csproj.GenerateResource.cache
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.AssemblyInfoInputs.cache
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.AssemblyInfo.cs
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.dll
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.pdb
+C:\Users\Yesica\source\repos\SonarCloud_GUI\obj\Debug\netcoreapp3.1\SonarCloud_GUI.genruntimeconfig.cache
